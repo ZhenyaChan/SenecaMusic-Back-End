@@ -85,7 +85,6 @@ app.delete("/api/user/favourites/:id", passport.authenticate('jwt', {session: fa
     });
 });
 
-
 userService.connect()
 .then(() => {
     app.listen(HTTP_PORT, () => { console.log("API listening on: " + HTTP_PORT) });
