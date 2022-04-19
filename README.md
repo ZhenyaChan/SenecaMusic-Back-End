@@ -9,7 +9,7 @@ This project was created to be used as the back end for the Seneca Music angular
 
 - Back-End Heroku Link: https://seneca-music-user-api.herokuapp.com/
 
-- Github Front-End Repository Link: https://github.com/ZhenyaChan/Rest-Inn-Front-End
+- Github Front-End Repository Link: https://github.com/ZhenyaChan/Seneca-Music-Front-End
 
 - Github Back-End Repository Link: https://github.com/ZhenyaChan/SenecaMusic-Back-End
 
