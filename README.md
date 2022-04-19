@@ -5,7 +5,7 @@ This project was created to be used as the back end for the Seneca Music angular
 
 ## Project Links:
  
-- Production Link(Netify): https://github.com/ZhenyaChan/Seneca-Music-Front-End
+- Production Link(Netify): https://dynamic-wisp-328d7e.netlify.app
 
 - Back-End Heroku Link: https://seneca-music-user-api.herokuapp.com/
 
