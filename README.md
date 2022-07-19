@@ -1,7 +1,7 @@
 # User API - Web422 Assignment 6
 
 ## Summary
-This project was created to be used as the back end for the Seneca Music angular app
+This project was created to be used as the back end for my Seneca Music angular app
 
 ## Project Links:
  
